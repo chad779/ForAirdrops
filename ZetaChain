@@ -1,0 +1,52 @@
+初衷:
+撸羊毛空投已一段时间, 断断续续的, 发现了几个问题:
+1, 老是忘记以前关注的项目 
+2, 忘记操作步骤, 一个钱包操作完, 换个钱包又要重新开始学
+3, 更致命的是, 网上文章太多, 总是找不到当初学习的文章
+于是, 有了记录的想法, 把每天的操作记录下来(根据网上资料整理, 并根据自己的习惯进行修改)
+(纯属个人兴趣行为, 所思所写没有参考价值, 切记)
+
+简介(主要特征)
+ZetaChain 是为全链(omniChain)互操作性而构建的去中心化区块链和智能合约平台
+
+项目融资(主要投资方)
+有说币安和Coinbase参与投资, 没有找到相关信息.
+
+代币经济学
+没找到
+
+更多信息: https://www.zetachain.com/docs/learn/what-is-zetachain
+网站：https://www.zetachain.com/zh-CN
+推特：https://twitter.com/zetablockchain (超16W关注着)
+DC群: https://discord.gg/y2kYJ4xVSv (群已超17W成员)
+链接：https://labs.zetachain.com/leaderboard
+
+ZetaChain 与 Galxe 合作整合，並发起NFT 活动推广全链互操作性 (https://zetachain.notion.site/ZetaChain-Galxe-NFT-c7548ea94e8a4b15849726feff32d364)
+
+测试网入口: 网页链接
+一, 验证推特(Twitter 必须使用 1 个月以上), 连接钱包.
+
+二, 领取测试币。有2个途径领取测试币：
+1.1、官方测试页面领取。点击Get ZETA请求，每24小时领一次。
+1.2、DC群领取(https://discord.com/invite/NKAUn7d5vX)。进入群找到菜单DEVELOPMENT ZONE / zeta-faucet，回复 Zeta Faucet Drip Address
+
+三, 测试交易, 进入 测试页面, 链接钱包。每次最少交易3ZETA，否则交易失败。
+注: 有点麻烦的是, 每天都要花点时间领取测试币, 然后交易.
+
+四, 进入Zetachain银河https://galxe.com/ZetaChain/campaign/GCatUUwYSY
+目前一共9个OAT。其中OAT1、OAT2已可领取，其余的需2023年1月1日开放领取。
+
+4.1 OAT1 ZETA Supporter。
+关注twitter(https://twitter.com/zetablockchain)
+加官方DC(https://discord.gg/NKAUn7d5vX)
+验证即可领取。
+
+4.2 OAT2 Omnichain ZETA Swap.
+在上面的基础上，用Polygon Mumbai 上的币兑换BSC链上的 USDT 。然后点击认证，领取即可。
+
+现在只能领取OAT1-2，OAT3-9 的领取时间在2023/01/01
+领取OAT1-2之后, 进入(https://guild.xyz/zetachain)认证页面领取角色。
+
+Zetachain除了赚取OAT, 还可以赚取 ZETA 积分, 作为以后空投分配的依据.
+OAT : on-Chain achievement token(链上成就令牌)
+
